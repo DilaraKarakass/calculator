@@ -1,0 +1,13 @@
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  color: white;
+  background-color: #1E1E1E;
+}
